@@ -27,5 +27,7 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
       run: |
+        git config --global user.email "matrixhasyou2k4@gmail.com"
+        git config --global user.name "Jonathan Creamer"
         npm ci
         npm run deploy
