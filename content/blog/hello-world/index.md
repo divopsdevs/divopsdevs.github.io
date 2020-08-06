@@ -1,6 +1,6 @@
 ---
 title: DivOps Manifesto
-date: "2015-05-01T22:12:03.284Z"
+date: "2020-08-06T22:12:03.284Z"
 description: "Hello World"
 ---
 

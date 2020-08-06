@@ -30,4 +30,10 @@ jobs:
         git config --global user.email "matrixhasyou2k4@gmail.com"
         git config --global user.name "Jonathan Creamer"
         npm ci
-        npm run deploy
+        npm run build
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: public
