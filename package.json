@@ -52,7 +52,7 @@
   "scripts": {
     "build": "gatsby build",
     "deploy": "npm run build && cp -r ./.github public && npm run publish",
-    "publish": "gh-pages -d public --branch master",
+    "publish": "gh-pages -d public --branch master --dotfiles true",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
