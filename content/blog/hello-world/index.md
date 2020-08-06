@@ -1,22 +1,10 @@
 ---
-title: Hello World
+title: DivOps Manifesto
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
 ---
 
-This is my first post on my new fake blog! How exciting!
+> We the people, Javasript engineers who don't write actual UI code, in Order to form a more perfect job description, establish this group, ensure we will share it, provide for the infrastructure of others, promote the general Javascripts, and secure the Blessings of other Javascript engineers never having to write their own webpack configs for their posterity, do ordain and establish this DivOps manifesto.
 
-I'm sure I'll write a lot more interesting things in the future.
-
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
-
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+- [History of DivOps](https://www.jonathancreamer.com/announcing-div-ops/).
+- [Join our Slack Community](https://join.slack.com/t/divopsdevs/shared_invite/enQtOTcxMjQ5MzUxMjcwLWIwNGQzMmRjNjkwMWNjNmEyMjY0ZmRjNzRkNzgzMTgxNjJiNjNlZTg2MmIzYmQyOTg1MmEzOWJjMWZiN2IxMWE)

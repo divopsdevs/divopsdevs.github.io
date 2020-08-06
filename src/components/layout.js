@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-
+import DivOpsImage from '../../content/assets/divops.png';
 import { rhythm, scale } from "../utils/typography"
 
 const Layout = ({ location, title, children }) => {
@@ -23,7 +23,7 @@ const Layout = ({ location, title, children }) => {
           }}
           to={`/`}
         >
-          {title}
+          <img alt={title} src={DivOpsImage} />
         </Link>
       </h1>
     )
