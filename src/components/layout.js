@@ -59,9 +59,9 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
+        © {new Date().getFullYear()}, Join the DivOps
         {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <a href="https://join.slack.com/t/divopsdevs/shared_invite/enQtOTcxMjQ5MzUxMjcwLWIwNGQzMmRjNjkwMWNjNmEyMjY0ZmRjNzRkNzgzMTgxNjJiNjNlZTg2MmIzYmQyOTg1MmEzOWJjMWZiN2IxMWE">Slack Community</a>
       </footer>
     </div>
   )
